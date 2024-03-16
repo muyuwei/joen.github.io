@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: Joerocker516@gmail.com
 description: "这里是 @muyuwei的个人博客，一起进步！
 keyword: "muyuwei，博客, 个人网站, 互联网, Web,  前端,"
-url: "https://github.com/muyuwei/joen.github.io" # your host, for absolute URL
+url: "https://github.com/muyuwei/muyuwei.github.io" # your host, for absolute URL
 baseurl: "muyuwei/joen.github.io" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
